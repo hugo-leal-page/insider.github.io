@@ -238,6 +238,8 @@ color: white;
 @media screen and (max-width:640px;){
 	.*{
 	position:static;
+	display:block;
+	width:100%;
 	}
 
 }
