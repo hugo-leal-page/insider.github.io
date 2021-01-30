@@ -235,3 +235,9 @@ color: white;
 	animation-delay: -0.8s;
 }
 
+@media screen and (max-width:640px;){
+	.*{
+	position:static;
+	}
+
+}
