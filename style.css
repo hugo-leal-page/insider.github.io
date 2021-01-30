@@ -136,7 +136,7 @@ a{
 
 .progress-value {
   color: white;
-  font-size: 1.5em;
+  font-size: 2em;
   font-family: 'Raleway', sans-serif; 
   position: relative;
   display: inline-block;
@@ -154,7 +154,7 @@ a{
 .progress-text {
   text-transform: uppercase;
   font-family: 'Raleway', sans-serif; 
-  font-size: 0.7em;
+  font-size: 0.9em;
   color: white;
   font-weight: bold;
   letter-spacing: 0.8px;
