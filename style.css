@@ -54,16 +54,19 @@ a{
 }
 
 
-.link1{
-  text-align: center;
-}
-
-
-
 .link2{
-font-weight: bold;
-font-size: 14px;
-color: white;
+  font-weight: bold;
+  color: white;
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 5px;
+  word-spacing: 8px;
+  text-transform: uppercase;
+  padding-top: 13px;
+  line-height: 25px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
 
 }
 
