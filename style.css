@@ -235,7 +235,3 @@ color: white;
 	animation-delay: -0.8s;
 }
 
-@media (max-width: 640px) {
-	* {
-		box-sizing: border-box;
-	}
