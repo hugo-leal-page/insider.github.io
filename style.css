@@ -248,10 +248,4 @@ justify-content: center;
 .all-rectangle .rectangle5{
 	animation-delay: -0.8s;
 }
-@media screen and (max-width:600px){
-	.body{
-	overflow-x:scroll
-	}
-}
-
 
