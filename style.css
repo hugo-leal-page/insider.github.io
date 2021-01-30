@@ -250,6 +250,8 @@ color: white;
   width: 100%;
   padding-top: 13px;
   line-height: 25px;}
+	.body{
+	display:flex;}
 	
 
 }
