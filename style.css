@@ -14,6 +14,7 @@ h1{
   	word-spacing: 12px;
   	margin-left: 2em;
   	width: 50em;
+	display:flex;
 }
 
 h2{
@@ -23,6 +24,7 @@ h2{
   	word-spacing: 12px;
   	margin-left: 8em;
   	padding: 0.5em;
+	display:flex;
 }
 
 p{
@@ -32,11 +34,12 @@ p{
   word-spacing: 8px;
   text-transform: uppercase;
   color:rgb(238, 238, 238);
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 65px;
+  margin-left: 65px;
   width: 100em;
   padding-top: 13px;
   line-height: 25px;
+  display:flex;
 }
 
 canvas {
@@ -235,23 +238,4 @@ color: white;
 	animation-delay: -0.8s;
 }
 
-@media screen and (max-width:640px;){
-	.*{
-		position:static;}
-	.p{
-  font-size: 14px;
-  font-family: 'Raleway', sans-serif;
-  letter-spacing: 5px;
-  word-spacing: 8px;
-  text-transform: uppercase;
-  color:rgb(238, 238, 238);
-  margin-right: auto;
-  margin-left: auto;
-  width: 100%;
-  padding-top: 13px;
-  line-height: 25px;}
-	.body{
-	display:flex;}
-	
 
-}
