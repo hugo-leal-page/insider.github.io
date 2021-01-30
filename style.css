@@ -62,7 +62,6 @@ a{
   word-spacing: 8px;
   text-transform: uppercase;
   padding-top: 13px;
-  padding-bot:13px;
   line-height: 25px;
   display:flex;
   justify-content: center;
@@ -77,6 +76,7 @@ a{
 
 .container {
   display: flex;
+  padding-top: 13px;
   justify-content: center;
   align-items: center;
 }
