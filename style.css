@@ -237,9 +237,19 @@ color: white;
 
 @media screen and (max-width:640px;){
 	.*{
-	position:static;
-	display:block;
-	width:100%;
-	}
+		position:static;}
+	.p{
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 5px;
+  word-spacing: 8px;
+  text-transform: uppercase;
+  color:rgb(238, 238, 238);
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  padding-top: 13px;
+  line-height: 25px;}
+	
 
 }
