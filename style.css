@@ -87,6 +87,8 @@ section{
 	margin:0 0 20px 0;
 }
 
+section img{max-width:100%}
+
 .PDF{
 	border-top:2px solid white;
 	margin-top: 20px;
