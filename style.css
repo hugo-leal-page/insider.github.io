@@ -33,11 +33,15 @@ p{
   word-spacing: 8px;
   text-transform: uppercase;
   color:rgb(238, 238, 238);
-  margin-right: 300px;
-  margin-left: 300px;
   padding-top: 13px;
   line-height: 25px;
-  display:flex;
+}
+
+c{
+width:90%;
+max-width:1000px;
+margin:0 auto;
+
 }
 
 canvas {
