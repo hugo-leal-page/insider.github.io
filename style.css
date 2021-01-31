@@ -71,6 +71,7 @@ a{
   line-height: 25px;
   justify-content : center;
   align-items:center;
+  display:flex;
 
 }
 
