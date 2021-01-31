@@ -1,6 +1,7 @@
 body{
 	background: black;
-	overflow:hidden;
+	overflow:auto;
+	margin:auto;
 }
 
 h1{
