@@ -84,6 +84,11 @@ line-height: 25px;
 justify-content: center;
 }
 
+section{
+	display:block;
+	margin:0 0 20px 0
+}
+
 .PDF{
 	border-top:2px solid white;
 	margin-top: 20px;
