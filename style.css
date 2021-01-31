@@ -17,6 +17,8 @@ h1{
 
 @media (max-width: 1000px){header h1{margin-left:0}}
 
+.c{width:90%;max-width:700px;margin:0 auto}
+
 h2{
 	color: white;
 	font-family: 'Raleway', sans-serif;
@@ -37,7 +39,7 @@ p{
   line-height: 25px;
 }
 
-c{
+.c{
 width:90%;
 max-width:1000px;
 margin:0 auto;
