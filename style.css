@@ -11,9 +11,8 @@ h1{
 	font-family: 'Raleway', sans-serif;
 	letter-spacing: 5px;
   	word-spacing: 12px;
-  	margin-left: 2em;
+	margin:0 0 20px;
   	width: 50em;
-	display:flex;
 }
 
 h2{
@@ -21,9 +20,8 @@ h2{
 	font-family: 'Raleway', sans-serif;
 	letter-spacing: 5px;
   	word-spacing: 12px;
-  	margin-left: 8em;
   	padding: 0.5em;
-	display:flex;
+	margin:0 0 20px
 }
 
 p{
