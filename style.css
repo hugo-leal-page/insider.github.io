@@ -1,9 +1,10 @@
 body{
 	background: black;
-	overflow-x:hidden;
-	width:  100%;
-  	height: 100%;
   	margin: 0px;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
 }
 
 h1{
@@ -52,6 +53,8 @@ canvas {
   top:0;
   left:0;
   z-index: -1;
+  width: 100%;
+  height: 100%;
 }
 
 
