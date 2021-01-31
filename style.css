@@ -69,6 +69,8 @@ a{
   text-transform: uppercase;
   padding-top: 13px;
   line-height: 25px;
+  justify-content : center;
+  align-items:center;
 
 }
 
