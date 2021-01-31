@@ -86,7 +86,7 @@ justify-content: center;
 }
 
 .container {
-  display: flex;
+  display: block;
   padding-top: 13px;
   justify-content: center;
   align-items: center;
