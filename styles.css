@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #E4E2DD;
+    background-color: white;
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -8,13 +8,19 @@ body {
 }
 
 .top-banner {
-    background-color: #004AAD;
-    color: white;
+    background-color: #E4E2DD;
+    color: #004AAD;
     width: 100%;
     display: flex;
     justify-content: space-around;
+    align-items: center;
     padding: 1em 0;
     box-sizing: border-box;
+}
+
+.logo {
+    height: 40px; /* Adjust the height as needed */
+    margin-right: 20px;
 }
 
 .nav-item {
@@ -52,8 +58,8 @@ body {
 }
 
 .banner {
-    background-color: #004AAD;
-    color: white;
+    background-color: #E4E2DD;
+    color: #004AAD;
     width: 100%;
     text-align: center;
     padding: 1em 0;
