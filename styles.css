@@ -7,31 +7,30 @@ body {
     align-items: center;
 }
 
-.logo {
-    height: 40px; /* Adjust the height as needed */
-    margin-right: 20px;
-}
-
 .top-banner {
     background-color: #E4E2DD;
     color: #004AAD;
     width: 100%;
     display: flex;
-    justify-content: space-around;
     align-items: center;
-    padding: 1em 0;
+    padding: 1em 2em; /* Added padding for spacing */
     box-sizing: border-box;
+    position: relative;
 }
 
 .logo {
     height: 40px; /* Adjust the height as needed */
     margin-right: 20px;
+    position: absolute;
+    left: 20px;
 }
 
 .nav-item {
-    position: relative;
     padding: 0.5em;
     cursor: pointer;
+    margin-left: auto; /* Pushes navigation items to the right */
+    display: flex;
+    align-items: center;
 }
 
 .dropdown-content {
